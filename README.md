@@ -1,2 +1,1 @@
-# Diary
-aaa
+Git練習
